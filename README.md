@@ -11,3 +11,9 @@ laptop_prj.ipynb
 machine Learning_project.pdf
 Screenshorts_word.docx
 machine Learning_project.zip
+
+
+
+700737910
+vxk79100@ucmo.edu
+CS5710: CRN21627
